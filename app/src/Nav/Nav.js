@@ -23,6 +23,7 @@ const Nav = () => {
               <a
                 className="nav-link"
                 target="_blank"
+                rel="noopener noreferrer"
                 href="https://www.amazon.co.uk/Corona-Times-Rhymes-Verses-ebook/dp/B086S9TZ9V/ref=sr_1_1?dchild=1&keywords=corona+times+rhymes&qid=1586168307&sr=8-1"
               >
                 <button className="support-nav-btn">Support Now</button>
