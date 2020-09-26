@@ -4,9 +4,7 @@ const Nav = () => {
   return (
     <section className="white">
       <nav className="navbar navbar-expand">
-        <a className="navbar-brand" href="#">
-          Corona Rhymes
-        </a>
+        <div className="navbar-brand">Corona Rhymes</div>
         <button
           className="navbar-toggler"
           type="button"
